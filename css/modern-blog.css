@@ -222,10 +222,10 @@ body.body--hidden .header {
 	opacity: 0;
 }
 
-.header{
-	-webkit-transition: opacity 300ms ease-in-out;
-	transition: opacity 300ms ease-in-out;
-}
+/*.header{*/
+	/*-webkit-transition: opacity 300ms ease-in-out;*/
+	/*transition: opacity 300ms ease-in-out;*/
+/*}*/
 
 a {
 	text-decoration: none;
