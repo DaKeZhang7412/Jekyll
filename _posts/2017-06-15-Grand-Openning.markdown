@@ -8,21 +8,21 @@ categories:
 avatar: "img/authors/wferr.png"
 image: "img/grandopenning.jpg"
 ---
-{: center}
+
 # So Relaxed Massage 
 <p align="center"><img src="img/post/grandopenning/2.gif" /></p>
-![Title]({{ site.url }}/img/post/grandopenning/title.gif)
-![phone]({{ site.url }}/img/post/grandopenning/1.png)
-![line1]({{ site.url }}/img/post/grandopenning/2.gif)
-<p align="center">Welcome To So Rlaxed Massage</p>
+<p align="center"><img src="img/post/grandopenning/title.gif" /></p>
+<p align="center"><img src="img/post/grandopenning/1.gif" /></p>
+<p align="center"><img src="img/post/grandopenning/2.png" /></p>
+<p align="center"><strong>Welcome To So Rlaxed Massage</strong></p>
 
-![My helpful screenshot]({{ site.url }}/img/post/grandopenning/3.gif){: center}
+<p align="center"><img src="img/post/grandopenning/3.gif" /></p>
 <p align="center">Please come over Here Take a Top quality massage service 
 New, Young Asian Staff, Soft Hand,Amazing Massage Techniques </p>
 
 <p align="center"><strong>★★Certified Massage Therapists★★</strong></p>
 
-_DEEP TISSUE ~ SWEDISH ~ OIL MASSAGE_ 
+<p align="center"><i>DEEP TISSUE ~ SWEDISH ~ OIL MASSAGE </i></p>
  
 Hot Stone And Free Table Shower
 
@@ -36,9 +36,9 @@ Private Space Clean Quite And Comfortable
 
 7 Days Open, From 10 Am To 10 Pm 
 
-★ Call: 405-601-1947 ★
+<p align="center"><strong>★ Call: 405-601-1947 ★</strong></p>
 
 1141 W 15th St, Edmond, Ok 73013 
 
-### Walk-In Welcome！
+<p align="center"><strong> Walk-In Welcome！</strong></p>
 

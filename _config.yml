@@ -7,4 +7,4 @@ address1: 1141 W 15th St,
 address2: Edmond, OK 73013
 author: Dake Zhang
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "/Jekyll/" # the base hostname & protocol for your site
