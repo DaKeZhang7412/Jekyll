@@ -10,6 +10,7 @@ image: "img/grandopenning.jpg"
 ---
 {: center}
 # So Relaxed Massage 
+<p align="center"><img src="{{ site.url }}/img/post/grandopenning/2.gif" /></p>
 ![Title]({{ site.url }}/img/post/grandopenning/title.gif)
 ![phone]({{ site.url }}/img/post/grandopenning/1.png)
 ![line1]({{ site.url }}/img/post/grandopenning/2.gif)
@@ -19,7 +20,7 @@ image: "img/grandopenning.jpg"
 <p align="center">Please come over Here Take a Top quality massage service 
 New, Young Asian Staff, Soft Hand,Amazing Massage Techniques </p>
 
-**★★Certified Massage Therapists★★**
+<p align="center"><strong>★★Certified Massage Therapists★★</strong></p>
 
 _DEEP TISSUE ~ SWEDISH ~ OIL MASSAGE_ 
  
