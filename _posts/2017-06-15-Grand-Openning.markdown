@@ -10,7 +10,7 @@ image: "img/grandopenning.jpg"
 ---
 {: center}
 # So Relaxed Massage 
-<p align="center"><img src="{{ site.url }}/img/post/grandopenning/2.gif" /></p>
+<p align="center"><img src="img/post/grandopenning/2.gif" /></p>
 ![Title]({{ site.url }}/img/post/grandopenning/title.gif)
 ![phone]({{ site.url }}/img/post/grandopenning/1.png)
 ![line1]({{ site.url }}/img/post/grandopenning/2.gif)
