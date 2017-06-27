@@ -12,10 +12,9 @@ image: "img/grandopenning.jpg"
 # So Relaxed Massage 
 <p align="center"><img src="img/post/grandopenning/2.gif" /></p>
 <p align="center"><img src="img/post/grandopenning/title.gif" /></p>
-<p align="center"><img src="img/post/grandopenning/1.gif" /></p>
-<p align="center"><img src="img/post/grandopenning/2.png" /></p>
+<p align="center"><img src="img/post/grandopenning/1.png" /></p>
+<p align="center"><img src="img/post/grandopenning/2.gif" /></p>
 <p align="center"><strong>Welcome To So Rlaxed Massage</strong></p>
-
 <p align="center"><img src="img/post/grandopenning/3.gif" /></p>
 <p align="center">Please come over Here Take a Top quality massage service 
 New, Young Asian Staff, Soft Hand,Amazing Massage Techniques </p>
