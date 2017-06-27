@@ -27,4 +27,7 @@ header .kicker {
   line-height: 1;
   margin-top: 20px; }
 
+card__copy center {
+  align: center; }
+
 /*# sourceMappingURL=main.css.map */
