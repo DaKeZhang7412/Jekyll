@@ -1,0 +1,20 @@
+---
+title:  "Pricing"
+subtitle: "Choose the right way for yourself!"
+avatar: "img/authors/wferr.png"
+image: "img/2.jpg"
+date:   2017-06-29 12:12:12
+---
+### Pricing    
+<p algin="cener">Choose the right way for yourself!</p>
+<p align="center"><strong>★★ Body Massage Treatment ★★</strong></p>
+<p align="center">
+    $40/30Min; <br/>
+    $60/60Min; <br/>
+    $90/90MIn; <br/>
+</p>
+<p align="center"><strong>★★ Combination (Body+ Foot) Massage Treatment ★★</strong></p>
+<p align="center">
+    $50/60Min; <br/>
+    $80/90Min; <br/>
+</p>
